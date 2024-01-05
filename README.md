@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Web Applications Development.**
 
-- 👨‍💻 All of my public projects are available at [https://github.com/rachit5t?tab=repositories](https://github.com/rachit5t?tab=repositories)
+- 👨‍💻 All of my public projects are available [here](https://github.com/rachit5t?tab=repositories)
 
 - 💬 Ask me about **Laravel Framework**
 

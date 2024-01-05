@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rachit Dhakal</h1>
 <h3 align="center">A passionate developer from Nepal. I make full stack apps using laravel framework.</h3>
-<img src="https://media4.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif?cid=ecf05e47vcovkwnivqzcl69qpmn1lbdmr39wz6zxfme19deb&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="coding" align="right" width="400">
 
 - 🔭 I’m currently working on **Web Applications Development.**
 
